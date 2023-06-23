@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "762413317617",
+    "project_id": "pruebastrabajo-6ca0f",
+    "storage_bucket": "pruebastrabajo-6ca0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762413317617:android:ce87e65730020ba4075850",
+        "android_client_info": {
+          "package_name": "com.example.aplicacionpruebatecnica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762413317617-fg7vurkhk62ng2d11gok6g9ju3oi09bs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBskdLZdX8qgQGPxy6Wlo00YUq8KotRoO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762413317617-fg7vurkhk62ng2d11gok6g9ju3oi09bs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762413317617:android:bf99a33245ea4ebd075850",
+        "android_client_info": {
+          "package_name": "com.example.aplicativoskysmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762413317617-fg7vurkhk62ng2d11gok6g9ju3oi09bs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBskdLZdX8qgQGPxy6Wlo00YUq8KotRoO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762413317617-fg7vurkhk62ng2d11gok6g9ju3oi09bs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
